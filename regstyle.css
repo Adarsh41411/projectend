@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(245, 250, 198);
+}
+
+.main {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border: solid black 1px;
+}
+
+.reg {
+    margin: 50px 0px 10px 248px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+form {
+    margin-left: 250px;
+    margin-right:300px
+
+}
+.register{
+    margin-left: 140px;
+    padding : 5px;
+    width : 100px;
+    margin-top : 20px;
+    font-size: 18px;
+}
+.reset{
+    margin-left: 20px;
+    padding : 5px;
+    width : 100px;
+    margin-top : 20px;
+    font-size: 18px;
+}
+input {
+    width: 100%;
+    padding: 7px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+ }
+
+ .login{
+    margin-left: 140px;
+    margin-bottom: 270px;
+    padding : 5px;
+    width : 100px;
+    margin-top : 20px;
+    font-size: 18px;
+}
+.office{
+    margin-left: 300px;
+    margin-bottom: 0px;
+    padding : 5px;
+    width : 400px;
+    margin-top : 20px;
+    
+}
+.para{
+    margin-left: 140px;
+    margin-bottom: 270px;
+    padding : 5px;
+    width : 700px;
+    margin-top : 50px;
+}
